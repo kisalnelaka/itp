@@ -1,0 +1,4 @@
+See file:///home/majorhavoc/Desktop/curtin%20assignment%203x/sec_sample-main/c_library/build/tmp/linkDebugLinux/output.txt for all output for linkDebugLinux.
+linking libexample_c_library.so successful.
+
+Finished linkDebugLinux, see full log file:///home/majorhavoc/Desktop/curtin%20assignment%203x/sec_sample-main/c_library/build/tmp/linkDebugLinux/output.txt.
