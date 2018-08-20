@@ -1,0 +1,6 @@
+-shared
+-Wl,-soname,libexample_c_library.so
+-o
+"/home/majorhavoc/Desktop/curtin assignment 3x/sec_sample-main/c_library/build/lib/main/debug/linux/libexample_c_library.so"
+"/home/majorhavoc/Desktop/curtin assignment 3x/sec_sample-main/c_library/build/obj/main/debug/linux/3p7nvqbhb3qzd5dd3w3jbxjw7/example_c_library.o"
+-m64
