@@ -1,4 +1,0 @@
-See file:///home/majorhavoc/Desktop/curtin%20assignment%203x/sec_sample-main/c_library/build/tmp/linkReleaseLinux/output.txt for all output for linkReleaseLinux.
-linking libexample_c_library.so successful.
-
-Finished linkReleaseLinux, see full log file:///home/majorhavoc/Desktop/curtin%20assignment%203x/sec_sample-main/c_library/build/tmp/linkReleaseLinux/output.txt.
